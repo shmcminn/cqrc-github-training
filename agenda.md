@@ -12,4 +12,3 @@
 10. Make a change, any change
 11. Commit and push change
 12. Send pull request
-13. LUCKY THIRTEEN!
