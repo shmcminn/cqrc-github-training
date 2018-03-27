@@ -1,6 +1,6 @@
 # Git agenda
 
-1, Login
+1. Login
 2. Set up ssh
 3. Initialize local repository
 4. Make file and commit it
