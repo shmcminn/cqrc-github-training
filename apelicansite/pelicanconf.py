@@ -9,10 +9,8 @@ SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
-
+DEFAULT_DATE = 'fs'
 DEFAULT_LANG = u'en'
-
-THEME = "pelican-themes/hyde"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -36,3 +34,5 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+#Set the theme
+THEME = 'hyde'

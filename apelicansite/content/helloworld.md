@@ -1,5 +1,4 @@
 Title: Hello World!
-Date: 2018-03-27
 Category: git
 Author: George
 
