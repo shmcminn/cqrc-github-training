@@ -4,7 +4,7 @@ The intro text you see on the front of a Github respository is the repo's *READM
 
     # Headline
     
-    # Subhead 
+    ## Subhead 
     
     Paragraph text
     
@@ -12,6 +12,6 @@ Github knows what to do with these files, and automatically converts them to HTM
 
 # Headline
     
-# Subhead 
+## Subhead 
     
 Paragraph text
