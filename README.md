@@ -6,7 +6,7 @@ The intro text you see on the front of a Github respository is the repo's *READM
     
     ## Subhead 
     
-    Paragraph text (with a link to RollCall.com)[http://www.rollcall.com]
+    Paragraph text [with a link to RollCall.com](http://www.rollcall.com)
     
     _Some Bullets_
     
@@ -20,7 +20,7 @@ Github knows what to do with these files, and automatically converts them to HTM
     
 ## Subhead 
     
-Paragraph text (with a link to RollCall.com)[http://www.rollcall.com]
+Paragraph text [with a link to RollCall.com](http://www.rollcall.com)
 
 _Some Bullets_
 
