@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'George'
 SITENAME = u'Gittin Git w/ CQRC'
-SITEURL = ''
+SITEURL = 'https://shmcminn.github.io/cqrc-github-training/apelicansite/output'
 
 PATH = 'content'
 
