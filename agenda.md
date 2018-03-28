@@ -1,6 +1,9 @@
 # Git agenda
 
 1. Login
+   Also do git config
+   `git config --global user.name "Your Name"`
+   `git config --global user.email your.email@example.com`
 2. Set up ssh
 3. Initialize local repository
 4. Make file and commit it
