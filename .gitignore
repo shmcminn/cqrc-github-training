@@ -2,3 +2,6 @@ cat .gitignore
 # Files to ignore
 apelicansite/*
 ! apelicansite/output
+! apelicansite/publishconf.py
+! apelicansite/pelicanconf.py
+! apelicansite/content
