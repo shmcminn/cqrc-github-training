@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Gittin Git w/ CQRC</title><link href="https://shmcminn.github.io/cqrc-github-training/apelicansite/output/" rel="alternate"></link><link href="https://shmcminn.github.io/cqrc-github-training/apelicansite/output/feeds/all.atom.xml" rel="self"></link><id>https://shmcminn.github.io/cqrc-github-training/apelicansite/output/</id><updated>2018-03-27T18:44:40-04:00</updated><entry><title>Hello World!</title><link href="https://shmcminn.github.io/cqrc-github-training/apelicansite/output/hello-world.html" rel="alternate"></link><published>2018-03-27T18:44:40-04:00</published><updated>2018-03-27T18:44:40-04:00</updated><author><name>George</name></author><id>tag:shmcminn.github.io,2018-03-27:/cqrc-github-training/apelicansite/output/hello-world.html</id><summary type="html">&lt;h1&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;This is blog post with a &lt;a href="http://www.rollcall.com"&gt;link to Roll Call&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;And a list&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One&lt;/li&gt;
+&lt;li&gt;Two&lt;/li&gt;
+&lt;li&gt;FIVE!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;THREE SIR!&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;THREE!&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Monty Python and the Holy Grail, the Holy Hand Grenade" src="https://media.giphy.com/media/ffyetb56Iux2M/giphy.gif"&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;This is blog post with a &lt;a href="http://www.rollcall.com"&gt;link to Roll Call&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;And a list&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One&lt;/li&gt;
+&lt;li&gt;Two&lt;/li&gt;
+&lt;li&gt;FIVE!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;THREE SIR!&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;THREE!&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Monty Python and the Holy Grail, the Holy Hand Grenade" src="https://media.giphy.com/media/ffyetb56Iux2M/giphy.gif"&gt;&lt;/p&gt;</content></entry></feed>
