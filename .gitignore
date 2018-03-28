@@ -4,4 +4,4 @@ apelicansite/*
 ! apelicansite/output
 ! apelicansite/publishconf.py
 ! apelicansite/pelicanconf.py
-! apelicansite/content
+! apelicansite/content/*
