@@ -28,4 +28,4 @@ _Some Bullets_
 * Two
 * Three
 
-The preview for the site we'll be working on at the end of this tutorial lives [here](https://shmcminn.github.io/cqrc-github-training/apelicansite/output/hello-world.html#hello-world).
+> Note: The preview for the site we'll be working on at the end of this tutorial lives [here](https://shmcminn.github.io/cqrc-github-training/apelicansite/output/hello-world.html#hello-world).
