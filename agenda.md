@@ -3,8 +3,9 @@
 1. Login
    
    Also do git config
-   
+
    `git config --global user.name "Your Name"`
+   
    `git config --global user.email your.email@example.com`
 
 2. Set up ssh
